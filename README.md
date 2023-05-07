@@ -18,7 +18,7 @@ Idempotency Calculator est un programme Python qui permet aux utilisateurs de ca
 
 Le programme permet à l'utilisateur de personnaliser certains aspects du calcul de l'idempotence :
 
-1. Pour réaliser un code pondéré personnalisé, l'utilisateur peut modifier le fichier `code.json`. Pour le code standard ASCII (8 bits, avec premier bit 0), la pondération est :
+1. Pour réaliser un code pondéré personnalisé, l'utilisateur peut modifier le fichier `code.json`. Pour le code standard ASCII (8 bits, avec bit e7=0), la pondération est :
 
 
 `e7: 128; e6: 64; e5: 32; e4: 16; e3: 8; e2: 4; e1: 2; e0: 1`
