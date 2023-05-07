@@ -43,6 +43,8 @@ Avec cette ligne, l'utilisateur peut réaliser un code pondéré personnel.
 
 ## Licence
 
+Nous prenons une LICENCE MIT.
+
 Veuillez consulter le fichier [LICENCE](LICENSE) pour plus d'informations sur la licence de ce projet.
 
 © 2023 JeongHan-Bae
