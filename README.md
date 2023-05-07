@@ -5,7 +5,7 @@ Idempotency Calculator est un programme Python qui permet aux utilisateurs de ca
 
 ## Utilisation
 
-1. Assurez-vous que Python 3 est installé sur votre système.
+1. Assurez-vous que Python 3 est installé sur votre système et la bibliothèque openpyxl est accessible.
 2. Clonez ce dépôt avec la commande `git clone https://github.com/JeongHan-Bae/idempotency-calculator.git`.
 3. Ouvrez le projet dans votre environnement de développement Python préféré, tel que PyCharm.
 4. Dans le répertoire du projet, assurez-vous que le fichier `idem_input.xlsx` contenant les 2^8 cas de 8 bits est présent et non modifié.
